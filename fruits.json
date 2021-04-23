@@ -1,0 +1,52 @@
+{
+	"fruits": [
+		{
+			"FruitName": "Apple",
+			"FruitColor":"Red or Green",
+			"FruitType": "Fruit",
+			"FruitPopRate": 2,
+			"FruitPurchRate": 69,
+			"FruitInfo": "https://en.wikipedia.org/wiki/Apple"
+		},
+		{
+			"FruitName": "Banana",
+			"FruitColor": "Yellow",
+			"FruitType": "Fruit",
+			"FruitPopRate": 1,
+			"FruitPurchRate": 69,
+			"FruitInfo": "https://en.wikipedia.org/wiki/Banana"
+		},
+		{
+			"FruitName": "Strawberry",
+			"FruitColor": "Red",
+			"FruitType": "Fruit",
+			"FruitPopRate": 3,
+			"FruitPurchRate": 62,
+			"FruitInfo": "https://en.wikipedia.org/wiki/Strawberry"
+		},
+		{
+			"FruitName": "Grape",
+			"FruitColor": "Purple or Green",
+			"FruitType": "Fruit",
+			"FruitPopRate": 4,
+			"FruitPurchRate": 62,
+			"FruitInfo": "https://en.wikipedia.org/wiki/Grape"
+		},
+		{
+			"FruitName": "Orange",
+			"FruitColor": "Orange",
+			"FruitType": "Fruit",
+			"FruitPopRate": 5,
+			"FruitPurchRate": 54,
+			"FruitInfo": "https://en.wikipedia.org/wiki/Orange_(fruit)"
+		},
+		{
+			"FruitName": "Watermelon",
+			"FruitColor": "Red",
+			"FruitType": "Fruit",
+			"FruitPopRate": 6,
+			"FruitPurchRate": 53,
+			"FruitInfo": "https://en.wikipedia.org/wiki/Watermelon"
+		}
+	]
+}
