@@ -1,0 +1,52 @@
+{
+	"Vegetables": [
+		{
+			"VegetableName": "Potato",
+			"VegetableColor": "Brown",
+			"VegetableType": "Vegetable",
+			"VegetablePopRate": 1,
+			"VegetablePurchRate": 69,
+			"VegetableInfo": "https://en.wikipedia.org/wiki/Potato"
+		},
+		{
+			"VegetableName": "Corn",
+			"VegetableColor": "Yellow",
+			"VegetableType": "Vegetable",
+			"VegetablePopRate": 2,
+			"VegetablePurchRate": 69, 
+			"VegetableInfo": "https://en.wikipedia.org/wiki/Maize"
+		},
+		{
+			"VegetableName": "Carrot",
+			"VegetableColor": "Orange",
+			"VegetableType": "Vegetable",
+			"VegetablePopRate": 3,
+			"VegetablePurchRate": 62,
+			"VegetableInfo": "https://en.wikipedia.org/wiki/Carrot"
+		},
+		{
+			"VegetableName": "Broccoli",
+			"VegetableColor": "Green",
+			"VegetableType": "Vegetable",
+			"VegetablePopRate": 6,
+			"VegetablePurchRate": 62,
+			"VegetableInfo": "https://en.wikipedia.org/wiki/Broccoli"
+		},
+		{
+			"VegetableName": "Cucumber",
+			"VegetableColor": "Green",
+			"VegetableType": "Vegetable",
+			"VegetablePopRate": 7,
+			"VegetablePurchRate": 54,
+			"VegetableInfo": "https://en.wikipedia.org/wiki/Cucumber"
+		},
+		{
+			"VegetableName": "Avocado",
+			"VegetableColor": "Green",
+			"VegetableType": "Vegetable",
+			"VegetablePopRate": 9,
+			"VegetablePurchRate": 53,
+			"VegetableInfo": "https://en.wikipedia.org/wiki/Avocado"
+		}
+	]
+}
