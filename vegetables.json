@@ -6,6 +6,7 @@
 			"VegetableType": "Vegetable",
 			"VegetablePopRate": 1,
 			"VegetablePurchRate": 69,
+			"VegetableImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/potato.jpg",
 			"VegetableInfo": "https://en.wikipedia.org/wiki/Potato"
 		},
 		{
@@ -14,6 +15,7 @@
 			"VegetableType": "Vegetable",
 			"VegetablePopRate": 2,
 			"VegetablePurchRate": 69, 
+			"VegetableImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/corn.jpg",
 			"VegetableInfo": "https://en.wikipedia.org/wiki/Maize"
 		},
 		{
@@ -22,6 +24,7 @@
 			"VegetableType": "Vegetable",
 			"VegetablePopRate": 3,
 			"VegetablePurchRate": 62,
+			"VegetableImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/carrot.jpg",
 			"VegetableInfo": "https://en.wikipedia.org/wiki/Carrot"
 		},
 		{
@@ -30,6 +33,7 @@
 			"VegetableType": "Vegetable",
 			"VegetablePopRate": 6,
 			"VegetablePurchRate": 62,
+			"VegetableImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/broccoli.jpg",
 			"VegetableInfo": "https://en.wikipedia.org/wiki/Broccoli"
 		},
 		{
@@ -38,6 +42,7 @@
 			"VegetableType": "Vegetable",
 			"VegetablePopRate": 7,
 			"VegetablePurchRate": 54,
+			"VegetableImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/cucumber.jpg",
 			"VegetableInfo": "https://en.wikipedia.org/wiki/Cucumber"
 		},
 		{
@@ -46,6 +51,7 @@
 			"VegetableType": "Vegetable",
 			"VegetablePopRate": 9,
 			"VegetablePurchRate": 53,
+			"VegetableImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/avacado.jpg",
 			"VegetableInfo": "https://en.wikipedia.org/wiki/Avocado"
 		}
 	]
