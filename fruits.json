@@ -6,6 +6,7 @@
 			"FruitType": "Fruit",
 			"FruitPopRate": 2,
 			"FruitPurchRate": 69,
+			"FruitImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/apples.jpg",
 			"FruitInfo": "https://en.wikipedia.org/wiki/Apple"
 		},
 		{
@@ -14,6 +15,7 @@
 			"FruitType": "Fruit",
 			"FruitPopRate": 1,
 			"FruitPurchRate": 69,
+			"FruitImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/banana.jpg",
 			"FruitInfo": "https://en.wikipedia.org/wiki/Banana"
 		},
 		{
@@ -22,6 +24,7 @@
 			"FruitType": "Fruit",
 			"FruitPopRate": 3,
 			"FruitPurchRate": 62,
+			"FruitImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/strawberry.jpg",
 			"FruitInfo": "https://en.wikipedia.org/wiki/Strawberry"
 		},
 		{
@@ -30,6 +33,7 @@
 			"FruitType": "Fruit",
 			"FruitPopRate": 4,
 			"FruitPurchRate": 62,
+			"FruitImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/grape.jpg",
 			"FruitInfo": "https://en.wikipedia.org/wiki/Grape"
 		},
 		{
@@ -38,6 +42,7 @@
 			"FruitType": "Fruit",
 			"FruitPopRate": 5,
 			"FruitPurchRate": 54,
+			"FruitImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/oranges.jpg",
 			"FruitInfo": "https://en.wikipedia.org/wiki/Orange_(fruit)"
 		},
 		{
@@ -46,6 +51,7 @@
 			"FruitType": "Fruit",
 			"FruitPopRate": 6,
 			"FruitPurchRate": 53,
+			"FruitImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/watermelon.jpg",
 			"FruitInfo": "https://en.wikipedia.org/wiki/Watermelon"
 		}
 	]
