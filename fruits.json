@@ -54,5 +54,6 @@
 			"FruitImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/watermelon.jpg",
 			"FruitInfo": "https://en.wikipedia.org/wiki/Watermelon"
 		}
-	]
+	], 
+	"Status" :"OK"
 }
