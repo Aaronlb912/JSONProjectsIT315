@@ -54,5 +54,6 @@
 			"VegetableImage": "https://raw.githubusercontent.com/Aaronlb912/JSONProjectsIT315/master/avacado.jpg",
 			"VegetableInfo": "https://en.wikipedia.org/wiki/Avocado"
 		}
-	]
+	],
+	"Status" :"OK"
 }
